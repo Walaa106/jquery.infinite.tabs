@@ -8,25 +8,25 @@
     "tabbed",
     "horizontal"
   ],
-  "version": "1.0.1",
+  "version": "0.2",
   "author": {
-    "name": "Josh Reed"
+    "name": "Walaa Abu Lebdeh"
   },
   "maintainers": [
     {
-      "name": "Josh Reed"
+      "name": "Walaa Abu Lebdeh"
     }
   ],
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/joshreed/jQuery-ScrollTabs/blob/1.0.1/LICENSE"
+      "url": "https://github.com/Walaa106/jquery.infinite.tabs"
     }
   ],
-  "homepage": "http://joshreed.github.io/jQuery-ScrollTabs/",
-  "docs": "http://joshreed.github.io/jQuery-ScrollTabs/documentation.html",
-  "download": "http://joshreed.github.io/jQuery-ScrollTabs/index.html",
+  "homepage": "https://github.com/Walaa106/jquery.infinite.tabs",
+  "docs": "https://github.com/Walaa106/jquery.infinite.tabs",
+  "download": "https://github.com/Walaa106/jquery.infinite.tabs",
   "dependencies": {
-    "jquery": ">=1.7.1"
+    "jquery": ">=0.2"
   },
 }
